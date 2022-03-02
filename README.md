@@ -24,4 +24,12 @@ On this project, there are text cleaning and management of TXT and CVS files wit
 
 Data collection from the APIs REST, processing of JSON format and python dictionaries and extraction of specific data from dictionaries is what you will find in this work.
 
+## [Project 4: Wheel of Fortune](Project4_WheelOfFortune.ipynb)
+"Wheel of Fortune" is named the fourth project. In this project, the popular game 'Wheel of Fortune' is implemented using definitions of classes in python for two types of players: Human players and Computer Players. The human players must pay attention to the evolution of the game to win, so only type their move through the prompt. The computer players play guessing letters as the game progress; to do this, their 'difficulty' as an added feature allows them to make 'good' or 'bad' moves. In this project's notebook, you can play this game with friends or versus the computer players (you decide their difficulty ;) ) and win amazing prizes.
+
+Definition of classes in python and the use of inheritance to reuse classes is what you can see in this work. The next files are part of this project:
+
+- [wheel.json](wheel.json)
+- [phrases.json](phrases.json)
+
 
